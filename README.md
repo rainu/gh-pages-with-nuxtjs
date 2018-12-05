@@ -101,7 +101,7 @@ But if you are in development mode you WANT the url base path to '/'. For that r
 1. To make it easy to override previous gh-pages version we add a helper script
     1. install dependency
         ```bash
-        npm i --only=dev push-dir
+        npm i --save-dev push-dir
         ```
     1. open the **package.json** file
     1. add the following line in *scripts*-section

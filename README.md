@@ -28,8 +28,6 @@ Demo project for how to create a github-page with Nuxt.js
 1. Create nuxt.js project
     ```bash
     npx create-nuxt-app gh-pages-demo
-    mv gh-pages-demo gh-pages
-    rm -rf gh-pages/.git
     ```
 1. ... and purge them
     ```bash
